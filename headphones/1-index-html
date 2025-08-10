@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Headphones - Premium Audio Experience</title>
+  <link rel="stylesheet" href="2-style.css" />
+</head>
+<body>
+  <!-- Hero -->
+  <header class="hero-section">
+    <div class="hero-overlay"></div>
+    <div class="logo">🎧 Headphones</div>
+
+    <!-- Hamburger Menu -->
+    <div class="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <nav>
+      <a href="index.html" class="active">Home</a>
+      <a href="what-we-do.html">What We Do</a>
+      <a href="our-results.html">Our Results</a>
+      <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <div class="hero-content">
+      <h1>Premium Headphones</h1>
+      <p>Exceptional sound quality for music lovers</p>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <section class="section-container">
+    <h2 class="section-title">Welcome</h2>
+    <p class="section-subtitle">
+      Experience the ultimate in sound performance with our premium range of headphones.
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div>© 2025 Headphones</div>
+    <div class="socials">
+      <a href="https://instagram.com/kaman_d3kii" target="_blank">Instagram</a>
+      <a href="https://facebook.com/George Kamande" target="_blank">Facebook</a>
+      <a href="https://twitter.com/george64302" target="_blank">Twitter</a>
+    </div>
+  </footer>
+
+  <!-- Script -->
+  <script src="script.js"></script>
+</body>
+</html>
